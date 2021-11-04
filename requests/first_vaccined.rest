@@ -1,0 +1,2 @@
+GET http://localhost:4000/users/first_vaccined
+accessToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJyb290IiwiZW1haWwiOiJyb290QGdtYWlsLmNvbSIsImlhdCI6MTYzNDQwMjUyNCwiZXhwIjoxNjM0NjYxNzI0fQ.KUbrNTYIgny_y4oDLmEswtJuSsKr0nBADwlP-AcltLE

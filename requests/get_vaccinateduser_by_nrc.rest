@@ -1,0 +1,6 @@
+GET http://localhost:4000/users/find/nrc
+Content-Type: application/json
+
+{
+    "nrc": "10/pmn(N)235452"
+}

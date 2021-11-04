@@ -1,0 +1,16 @@
+POST http://localhost:4000/users
+accessToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJyb290IiwiZW1haWwiOiJyb290QGdtYWlsLmNvbSIsImlhdCI6MTYzNDg3NjUxMn0.H91Kn8zVgcrQ0h8TiMVioTmA_97TJ_cSa4FgKW5s_wA
+Content-Type: application/json
+
+{
+    "username": "Kyaw Zaww",
+    "nrc": "10/pmn(N)432664",
+    "dob": "2001-4-5",
+    "gender": "Male",
+    "address": "Yangon",
+    "vaccineFirstDate": "",
+    "vaccineSecondDate": "",
+    "phone": "096523543",
+    "note": "This will be better than after. Ha Ha I am superman",
+    "profile": ""
+}
